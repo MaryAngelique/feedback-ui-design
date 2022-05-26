@@ -17,11 +17,10 @@
 
 Users should be able to:
 
-#### - 
+#### -  Click on the emoji feedback and submit the feedback
 
-#### - 
+#### - Receives a thank you message after submitting the feedback
 
-#### - 
 
 ### Features
 
@@ -33,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Feedback UI Design GitHub Solution](https://github.com/MaryAngelique/feedback-ui-design)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
